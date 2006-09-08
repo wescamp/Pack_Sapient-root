@@ -23,7 +23,10 @@ msgid ""
 "Long ago, two powerful kings died in a battle near this cave. All war ceased "
 "when both sides agreed to built great shrines in their honor. (Recommended "
 "setting of 1 gold per village)"
-msgstr "Před mnoha a mnoha lety, dva mocní králové padli v bitvě blízko této sluje. Celá válka byla přerušena, když se obě strany dohodly vystavět zde velkou svatyni v upomínku jejich slávy. (Doporučené nastavení 1 zlatý na vesnici)"
+msgstr ""
+"Před mnoha a mnoha lety, dva mocní králové padli v bitvě blízko této sluje. "
+"Celá válka byla přerušena, když se obě strany dohodly vystavět zde velkou "
+"svatyni v upomínku jejich slávy. (Doporučené nastavení 1 zlatý na vesnici)"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
 msgid "Recommended setting: 1gpv"
@@ -59,7 +62,9 @@ msgstr "4p - Severské RPG"
 msgid ""
 "A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: "
 "fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr "Seveřanská mapa hry více hráčů v RPG scénáři (Doporučení: mlha, 1 zlatý na vesnici, 70 kol, Použij nastavení mapy)"
+msgstr ""
+"Seveřanská mapa hry více hráčů v RPG scénáři (Doporučení: mlha, 1 zlatý na "
+"vesnici, 70 kol, Použij nastavení mapy)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
@@ -270,4 +275,3 @@ msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
-
