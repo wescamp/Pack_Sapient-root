@@ -3,65 +3,60 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-12 14:51+0200\n"
-"PO-Revision-Date: 2006-08-12 14:51+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2006-09-13 21:11-0800\n"
+"Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr ""
+msgstr "2и - Могила Королей"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
-msgid ""
-"Long ago, two powerful kings died in a battle near this cave. All war ceased "
-"when both sides agreed to built great shrines in their honor. (Recommended "
-"setting of 1 gold per village)"
-msgstr ""
+msgid "Long ago, two powerful kings died in a battle near this cave. All war ceased when both sides agreed to built great shrines in their honor. (Recommended setting of 1 gold per village)"
+msgstr "Давно, два мощных короля умерли в сражении около этой пещеры. Война прекратилась, когда обе стороны согласились в честь них построить святыню. (Рекомендованно 1 единица золота дохода за деревню)"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
 msgid "Recommended setting: 1gpv"
-msgstr ""
+msgstr "Рекомендованно 1 единица золота дохода за деревню"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:59
 msgid "Defeat the enemy leader."
-msgstr ""
+msgstr "Поражение лидера противника"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:63
 msgid "Your leader dies."
-msgstr ""
+msgstr "Смерть вашего лидера"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:67
 #: Pack_Sapient/scenarios/Mega2v2.cfg:130
 #: Pack_Sapient/scenarios/Mega2v2.cfg:152
 msgid "End of turns."
-msgstr ""
+msgstr "Закончились ходы"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:70
 msgid "A section of the tomb wall crumbles on turn 20."
-msgstr ""
+msgstr "Секция стены могилы развалится на 20 ходу."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:85
 msgid "The earth shakes."
-msgstr ""
+msgstr "Земля тресётся."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
+#, fuzzy
 msgid "4p - NorthernRPG"
-msgstr ""
+msgstr "4и - Северное RPG"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-msgid ""
-"A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: "
-"fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr ""
+msgid "A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
+msgstr "Карта северян в сценарии в сценарие типа RPG (Рекомендованно: туман войны, 1 ед. золота с деревень, 70 ходов, ипользовать настройки карты)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
-msgstr ""
+msgstr "Цветок Лотус"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:91
 msgid "The Lotus heightens zen; ranged weapons are faster."
@@ -69,101 +64,102 @@ msgstr ""
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:92
 msgid "I hate flowers!"
-msgstr ""
+msgstr "Ненавижу цветы!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:129
 msgid "An old suit of Armor"
-msgstr ""
+msgstr "Старая броня"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:132
 msgid "This armor is old, but it fits great! Ready for more beatings."
-msgstr ""
+msgstr "Эта броня старая, но удобная! Готов к бою."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:133
 msgid "The armor looks nice, but it's too bulky for me to carry."
-msgstr ""
+msgstr "Броня выглядит хорошей, но она мне слишком велика."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:175
 msgid "Holy Water"
-msgstr ""
+msgstr "Святая вода"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
 msgid "This water will make melee weapons holy."
-msgstr ""
+msgstr "Эта вода освящает холодное оружие."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:179
 msgid "I am not suited to the use of this item! Let another take it."
-msgstr ""
+msgstr "Я не могу использовать данный предмет! Пусть кто-нибудь возьмёт его."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:216
 msgid "Skeletal Claw"
-msgstr ""
+msgstr "Коготь Скелета"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:219
 msgid "You find a lich's claw, and it hovers at your side obediently."
-msgstr ""
+msgstr "Вы находите коготь лича."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:220
 msgid "I ain't touching it."
-msgstr ""
+msgstr "Я не трону его."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:232
 msgid "lich's claw"
-msgstr ""
+msgstr "коготь лича"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr ""
+msgstr "4и - Мега война (2 против 2)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:46
-msgid ""
-"The kingdoms of the legs fight against those in the blaster and ear. "
-"(Recommended setting of 1 gold per village and Great War Era)"
-msgstr ""
+#, fuzzy
+msgid "The kingdoms of the legs fight against those in the blaster and ear. (Recommended setting of 1 gold per village and Great War Era)"
+msgstr "The kingdoms of the legs fight against those in the blaster and ear.  (Рекомендованные настройки: 1 ед. золота с деревень и Великая война)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:56
 msgid "Magical Darkness"
-msgstr ""
+msgstr "Волшебная Темнота"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:68
 msgid "Left Leg"
-msgstr ""
+msgstr "Правая Нога"
 
-#: Pack_Sapient/scenarios/Mega2v2.cfg:70 Pack_Sapient/scenarios/Mega2v2.cfg:94
+#: Pack_Sapient/scenarios/Mega2v2.cfg:70
+#: Pack_Sapient/scenarios/Mega2v2.cfg:94
 msgid "south"
-msgstr ""
+msgstr "Юг"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:80
 msgid "Control Chip"
-msgstr ""
+msgstr "Чип Контроля"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:82
 #: Pack_Sapient/scenarios/Mega2v2.cfg:106
 msgid "north"
-msgstr ""
+msgstr "Север"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:92
 msgid "Right Leg"
-msgstr ""
+msgstr "Правая Нога"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:104
+#, fuzzy
 msgid "X-Blaster"
-msgstr ""
+msgstr "X-Blaster"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:120
 #: Pack_Sapient/scenarios/Mega2v2.cfg:142
 msgid "Recommended settings: 1gpv, Great War Era"
-msgstr ""
+msgstr "Рекомендованные настройки: 1 ед. золота с деревень и Великая война"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:122
 #: Pack_Sapient/scenarios/Mega2v2.cfg:148
 msgid "Death of the northern alliance leaders."
-msgstr ""
+msgstr "Смерть лидеров северного союзаю"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:126
 #: Pack_Sapient/scenarios/Mega2v2.cfg:144
 msgid "Death of the southern alliance leaders."
-msgstr ""
+msgstr "Смерть лидеров южного союзаю"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:135
 #: Pack_Sapient/scenarios/Mega2v2.cfg:157
@@ -172,98 +168,117 @@ msgid ""
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
+"Есть трое ворот телепортации (Лед, Песок, и Темнота) .\n"
+"Любой может использовать их, чтобы перейти в другие ворота.\n"
+"Если другие ворота заняты, то отряды меняются местами."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:238
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr ""
+msgstr "Дверь надписана с тремя рунами. Что вы сделаете?"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:240
 msgid "Press the Sand Rune"
-msgstr ""
+msgstr "Нажать Руну Песка"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:244
 msgid "Press the Ice Rune"
-msgstr ""
+msgstr "Нажать Ледяную Руну"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:248
 msgid "Press the Darkness Rune"
-msgstr ""
+msgstr "Нажать Руну Темноты"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:93
 msgid "Royal Rumble Lava-Village"
-msgstr ""
+msgstr "Королевская Ссора - Деревня лавы"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:95
 msgid ""
 "\n"
-"Six rulers vie for the control of Lava Village, where there is told to be an "
-"ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
+"Six rulers vie for the control of Lava Village, where there is told to be an ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
+"\n"
+"Шесть правителей воюют за Деревни Лавы, где должен быть древний том силы. (Предложение: 30 % опыта, 5 1 единиц золота дохода за деревню)"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:276
 msgid "Time is shifting fast."
-msgstr ""
+msgstr "Время течет быстро."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:278
 msgid "Kill enemy leaders!"
-msgstr ""
+msgstr "Убейте вражеских лидеров!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:281
 msgid "Find the Dark Tome!"
-msgstr ""
+msgstr "Найдите Том Тьмы!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:332
 msgid "Dark Tome"
-msgstr ""
+msgstr "Том Тьмы"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:335
 msgid "A Dark Tome was found here."
-msgstr ""
+msgstr "Том Тьмы  был найден здесь."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:336
 msgid "A Dark Tome was found here, but you could not understand it."
-msgstr ""
+msgstr "Том Тьмы  был найден здесь, но его нельзя прочитать."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:348
 msgid "dark tome"
-msgstr ""
+msgstr "Том Тьмы"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:382
 msgid "ambush"
-msgstr ""
+msgstr "скрытный"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:387
 msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
+"\n"
+"Тут нет леса, где можно спрятаться"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:392
 msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
+"\n"
+"Его нет?"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:410
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
+"\n"
+"Яд тебе не поможет!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:415
 msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
+"\n"
+"Спасибо за помощь!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:426
+#, fuzzy
 msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"..."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:431
+#, fuzzy
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Кто следующий?"
+
