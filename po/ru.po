@@ -9,15 +9,22 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
 msgstr "2и - Могила Королей"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
-msgid "Long ago, two powerful kings died in a battle near this cave. All war ceased when both sides agreed to built great shrines in their honor. (Recommended setting of 1 gold per village)"
-msgstr "Давно, два мощных короля умерли в сражении около этой пещеры. Война прекратилась, когда обе стороны согласились в честь них построить святыню. (Рекомендованно 1 единица золота дохода за деревню)"
+msgid ""
+"Long ago, two powerful kings died in a battle near this cave. All war ceased "
+"when both sides agreed to built great shrines in their honor. (Recommended "
+"setting of 1 gold per village)"
+msgstr ""
+"Давно, два мощных короля умерли в сражении около этой пещеры. Война "
+"прекратилась, когда обе стороны согласились в честь них построить святыню. "
+"(Рекомендованно 1 единица золота дохода за деревню)"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
 msgid "Recommended setting: 1gpv"
@@ -51,8 +58,12 @@ msgid "4p - NorthernRPG"
 msgstr "4и - Северное RPG"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-msgid "A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr "Карта северян в сценарии в сценарие типа RPG (Рекомендованно: туман войны, 1 ед. золота с деревень, 70 ходов, ипользовать настройки карты)"
+msgid ""
+"A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: "
+"fog of war, 1gpv, 70 turns, Use Map Settings)"
+msgstr ""
+"Карта северян в сценарии в сценарие типа RPG (Рекомендованно: туман войны, 1 "
+"ед. золота с деревень, 70 ходов, ипользовать настройки карты)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
@@ -112,8 +123,12 @@ msgstr "4и - Мега война (2 против 2)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:46
 #, fuzzy
-msgid "The kingdoms of the legs fight against those in the blaster and ear. (Recommended setting of 1 gold per village and Great War Era)"
-msgstr "The kingdoms of the legs fight against those in the blaster and ear.  (Рекомендованные настройки: 1 ед. золота с деревень и Великая война)"
+msgid ""
+"The kingdoms of the legs fight against those in the blaster and ear. "
+"(Recommended setting of 1 gold per village and Great War Era)"
+msgstr ""
+"The kingdoms of the legs fight against those in the blaster and ear.  "
+"(Рекомендованные настройки: 1 ед. золота с деревень и Великая война)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:56
 msgid "Magical Darkness"
@@ -123,8 +138,7 @@ msgstr "Волшебная Темнота"
 msgid "Left Leg"
 msgstr "Правая Нога"
 
-#: Pack_Sapient/scenarios/Mega2v2.cfg:70
-#: Pack_Sapient/scenarios/Mega2v2.cfg:94
+#: Pack_Sapient/scenarios/Mega2v2.cfg:70 Pack_Sapient/scenarios/Mega2v2.cfg:94
 msgid "south"
 msgstr "Юг"
 
@@ -195,10 +209,12 @@ msgstr "Королевская Ссора - Деревня лавы"
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:95
 msgid ""
 "\n"
-"Six rulers vie for the control of Lava Village, where there is told to be an ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
+"Six rulers vie for the control of Lava Village, where there is told to be an "
+"ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
 "\n"
-"Шесть правителей воюют за Деревни Лавы, где должен быть древний том силы. (Предложение: 30 % опыта, 5 1 единиц золота дохода за деревню)"
+"Шесть правителей воюют за Деревни Лавы, где должен быть древний том силы. "
+"(Предложение: 30 % опыта, 5 1 единиц золота дохода за деревню)"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:276
 msgid "Time is shifting fast."
@@ -281,4 +297,3 @@ msgid ""
 msgstr ""
 "\n"
 "Кто следующий?"
-
