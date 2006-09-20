@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-08-12 14:51+0200\n"
+"POT-Creation-Date: 2006-09-20 11:16+0200\n"
 "PO-Revision-Date: 2006-09-19 19:03+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: none\n"
@@ -123,6 +123,100 @@ msgstr "J'l'ai pas touchée !"
 msgid "lich's claw"
 msgstr "Griffe de liche"
 
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:461
+msgid "quick"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:543
+msgid "Follow the thief!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:551
+msgid "Investigate the area behind the waterfall."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:588
+msgid "My gold! My precious gold! Who has stolen it?"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:592
+msgid "Yoink! That was easy."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:618
+msgid ""
+"After him, you worthless louts! He went behind the waterfall.\n"
+"\n"
+"...and don't come back without my gold, or I'll kill you all myself!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:789
+msgid "Village secured."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:816
+msgid "You can't stop me! Never!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:920
+msgid "There's a secret passage here."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:935
+msgid "This slab won't budge. Maybe if I had a large enough lever."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:990
+#, fuzzy
+msgid "The great tree seems to be decaying. What will you do?"
+msgstr "Trois runes sont gravées sur le portail. Que faites vous ?"
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:992
+msgid "Pull off a branch"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1021
+msgid "Leave it alone"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1038
+msgid "At last, I claim my rightful place: as leader of this clan."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1075
+msgid "Look, a ship! Time to get out of here."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1206
+msgid ""
+"Ah! So you must be the ones who took our sacred tree.\n"
+"\n"
+"Since its loss, my people have lost our way and become pirates."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1212
+msgid ""
+"I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
+"\n"
+"You're next, foolish elf."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1224
+msgid "Pirates! You won't take this land without a fight"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1230
+msgid ""
+"Look! Don't you remember me?\n"
+"\n"
+"We went into the caves to find the thief, but he must have died inside. We "
+"never found him."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1234
+msgid "You... look familiar. But, no! It's impossible."
+msgstr ""
+
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
 msgstr "4 joueurs-Méga Guerre (2 contre 2)"
@@ -223,41 +317,44 @@ msgstr ""
 "un ancien grimoire magique (Suggestions : modificateur d'expérience de 30 %, "
 "5 pièces d'or par village)."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:276
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:282
 msgid "Time is shifting fast."
 msgstr "Le temps passe vite."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:278
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:284
 msgid "Kill enemy leaders!"
 msgstr "Tuez les chefs ennemis !"
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:281
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:287
 msgid "Find the Dark Tome!"
 msgstr "Trouvez le Livre des Ténèbres !"
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:332
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:288
+msgid ""
+"\n"
+"`Note: When a leader dies, all of his troops leave the battle, unless one of "
+"them holds the book of power (which is hidden in a random village)."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:339
 msgid "Dark Tome"
 msgstr "Le Livre des Ténèbres"
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:335
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:342
 msgid "A Dark Tome was found here."
 msgstr "le Livre des Ténèbres a été trouvé ici."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:336
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:343
 msgid "A Dark Tome was found here, but you could not understand it."
 msgstr ""
 "Le Livre des Ténèbres a été trouvé ici, mais sans que vous puissiez le "
 "décrypter."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:348
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:355
 msgid "dark tome"
 msgstr "livre des ténèbres"
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:382
-msgid "ambush"
-msgstr "embuscade"
-
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:387
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:396
 msgid ""
 "\n"
 "There's no forest for you to hide in."
@@ -265,7 +362,7 @@ msgstr ""
 "\n"
 "Il n'y a pas de forêt dans laquelle se cacher."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:392
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:401
 msgid ""
 "\n"
 "There isn't? Oh..."
@@ -273,7 +370,7 @@ msgstr ""
 "\n"
 "Il n'y en a pas ? Oh..."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:410
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:419
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
@@ -281,7 +378,7 @@ msgstr ""
 "\n"
 "M'empoisonner ne te servira à rien, assassin."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:415
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:424
 msgid ""
 "\n"
 "Thanks for the advice."
@@ -289,7 +386,7 @@ msgstr ""
 "\n"
 "Merci du conseil."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:426
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:435
 msgid ""
 "\n"
 "Alas... "
@@ -297,10 +394,13 @@ msgstr ""
 "\n"
 "Hélas..."
 
-#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:431
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:440
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
 "\n"
 "Ngahaha... Et d'un mort ! Qui veut être le suivant ?!"
+
+#~ msgid "ambush"
+#~ msgstr "embuscade"
