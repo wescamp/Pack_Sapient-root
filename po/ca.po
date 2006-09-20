@@ -1,18 +1,26 @@
+#
+# Catalan translations for Battle for Wesnoth package.
+# Copyright (C) 2004 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo <kilder@hotmail.com>, 2006.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-12 14:51+0200\n"
-"PO-Revision-Date: 2006-08-12 14:51+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-09-18 18:58+0200\n"
+"Last-Translator: Jose Gordillo\n"
+"Language-Team: Català <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr ""
+msgstr "2j - Tomba dels Reis"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
 msgid ""
@@ -20,148 +28,159 @@ msgid ""
 "when both sides agreed to built great shrines in their honor. (Recommended "
 "setting of 1 gold per village)"
 msgstr ""
+"Açò eren i no eren dos poderosos reis que van morir en una batalla prop "
+"d'aquesta cova. La guerra va concloure quan ambdós bàndols van acordar "
+"construir grans temples en el seu honor. Es recomana assignar una moneda "
+"d'or per llogaret."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
 msgid "Recommended setting: 1gpv"
-msgstr ""
+msgstr "Es recomana assignar una moneda d'or per llogaret"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:59
 msgid "Defeat the enemy leader."
-msgstr ""
+msgstr "Derrota el líder enemic."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:63
 msgid "Your leader dies."
-msgstr ""
+msgstr "Mort del teu líder."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:67
 #: Pack_Sapient/scenarios/Mega2v2.cfg:130
 #: Pack_Sapient/scenarios/Mega2v2.cfg:152
 msgid "End of turns."
-msgstr ""
+msgstr "Fi dels torns."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:70
 msgid "A section of the tomb wall crumbles on turn 20."
-msgstr ""
+msgstr "Un tros de la paret de la tomba cau al torn 20."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:85
 msgid "The earth shakes."
-msgstr ""
+msgstr "La terra tremola."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
 msgid "4p - NorthernRPG"
-msgstr ""
+msgstr "4j - JDR Tramuntaner"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
 msgid ""
 "A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: "
 "fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
+"Un mapa multijugador per als Tramuntaners a la manera d'un escenari propi "
+"d'un joc de rol. Recomanem boira de guerra, una moneda d'or per llogaret, 70 "
+"torns i usar els paràmetres per defecte."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
-msgstr ""
+msgstr "Flor de Lotus"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:91
 msgid "The Lotus heightens zen; ranged weapons are faster."
-msgstr ""
+msgstr "El Lotus inspira el zen; els atacs a distància són més ràpids."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:92
 msgid "I hate flowers!"
-msgstr ""
+msgstr "Odie les flors!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:129
 msgid "An old suit of Armor"
-msgstr ""
+msgstr "Una vella armadura"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:132
 msgid "This armor is old, but it fits great! Ready for more beatings."
 msgstr ""
+"Aquesta armadura es vella, però em para la mar de bé! Preparat per repartir "
+"més."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:133
 msgid "The armor looks nice, but it's too bulky for me to carry."
-msgstr ""
+msgstr "Aquesta armadura té bona pinta, però és massa pesada per mi."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:175
 msgid "Holy Water"
-msgstr ""
+msgstr "Aigua Sagrada"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
 msgid "This water will make melee weapons holy."
-msgstr ""
+msgstr "Aquesta aigua convertirà els atacs de melé en sagrats."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:179
 msgid "I am not suited to the use of this item! Let another take it."
-msgstr ""
+msgstr "No estic acostumat a usar aquest objecte! Que un altre el prenga."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:216
 msgid "Skeletal Claw"
-msgstr ""
+msgstr "Garra esqueletal"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:219
 msgid "You find a lich's claw, and it hovers at your side obediently."
-msgstr ""
+msgstr "Trobes la garra d'un lich, i flota obedientment al teu costat."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:220
 msgid "I ain't touching it."
-msgstr ""
+msgstr "Jo no la pense tocar."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:232
 msgid "lich's claw"
-msgstr ""
+msgstr "garra de lich"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr ""
+msgstr "4j - MegaGuerra "
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:46
 msgid ""
 "The kingdoms of the legs fight against those in the blaster and ear. "
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
+"Els regnes de les cames lluiten contra aquells dels blasters i les orelles. "
+"Recomanem una moneda d'or per llogaret i l'era de la Gran Guerra."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:56
 msgid "Magical Darkness"
-msgstr ""
+msgstr "Obscuritat màgica"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:68
 msgid "Left Leg"
-msgstr ""
+msgstr "Cama Esquerra"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:70 Pack_Sapient/scenarios/Mega2v2.cfg:94
 msgid "south"
-msgstr ""
+msgstr "sud"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:80
 msgid "Control Chip"
-msgstr ""
+msgstr "Chip de control"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:82
 #: Pack_Sapient/scenarios/Mega2v2.cfg:106
 msgid "north"
-msgstr ""
+msgstr "nord"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:92
 msgid "Right Leg"
-msgstr ""
+msgstr "Cama dreta"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:104
 msgid "X-Blaster"
-msgstr ""
+msgstr "Blaster-X"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:120
 #: Pack_Sapient/scenarios/Mega2v2.cfg:142
 msgid "Recommended settings: 1gpv, Great War Era"
-msgstr ""
+msgstr "Recomanem una moneda d'or per llogaret i l'era de la Gran Guerra"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:122
 #: Pack_Sapient/scenarios/Mega2v2.cfg:148
 msgid "Death of the northern alliance leaders."
-msgstr ""
+msgstr "Mort dels líders de la aliança del nord."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:126
 #: Pack_Sapient/scenarios/Mega2v2.cfg:144
 msgid "Death of the southern alliance leaders."
-msgstr ""
+msgstr "Mort dels líders de la aliança del sud."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:135
 #: Pack_Sapient/scenarios/Mega2v2.cfg:157
@@ -170,26 +189,29 @@ msgid ""
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
+"Hi ha tres tele-transports (gel, arena i foscor).\n"
+"Qualsevol pot usar-los per viatjar a les altres portes.\n"
+"Si la porta de destí està ocupada, les unitats canviaran llocs."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:238
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr ""
+msgstr "En el portal hi ha tres runes gravades. Què faràs?"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:240
 msgid "Press the Sand Rune"
-msgstr ""
+msgstr "Prémer la runa de l'arena"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:244
 msgid "Press the Ice Rune"
-msgstr ""
+msgstr "Prémer la runa del gel"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:248
 msgid "Press the Darkness Rune"
-msgstr ""
+msgstr "Prémer la runa de la foscor"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:93
 msgid "Royal Rumble Lava-Village"
-msgstr ""
+msgstr "Insta-Mapa del llogaret de la Lava"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:95
 msgid ""
@@ -197,71 +219,87 @@ msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
+"\n"
+"Sis cabdills rivalitzen pel control de l'aldea de la Lava, on es diu que hi "
+"ha un antic grimori. Recomanem 30% d'experiència, 5 monedes d'or per "
+"llogaret."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:276
 msgid "Time is shifting fast."
-msgstr ""
+msgstr "El temps està canviant ràpidament."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:278
 msgid "Kill enemy leaders!"
-msgstr ""
+msgstr "Mata els líders enemics!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:281
 msgid "Find the Dark Tome!"
-msgstr ""
+msgstr "Troba el grimori obscur!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:332
 msgid "Dark Tome"
-msgstr ""
+msgstr "Grimori Obscur"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:335
 msgid "A Dark Tome was found here."
-msgstr ""
+msgstr "S'ha trobat un Grimori Obscur ací."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:336
 msgid "A Dark Tome was found here, but you could not understand it."
-msgstr ""
+msgstr "S'ha trobat un Grimori Obscur, però no vas poder entendre'l."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:348
 msgid "dark tome"
-msgstr ""
+msgstr "grimori obscur"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:382
 msgid "ambush"
-msgstr ""
+msgstr "embosca"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:387
 msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
+"\n"
+"No hi ha cap bosc on pugues amagar-te."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:392
 msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
+"\n"
+"No? Vaja..."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:410
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
+"\n"
+"Enverinant-me no aconseguiràs res, criminal."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:415
 msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
+"\n"
+"Gràcies pel consell."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:426
 msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"Oh... "
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:431
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Ngahaha... Un que cau! Qui vol ser el següent?!"
