@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-20 11:16+0200\n"
-"PO-Revision-Date: 2006-09-18 18:58+0200\n"
-"Last-Translator: Jose Gordillo\n"
+"PO-Revision-Date: 2006-09-23 19:41+0200\n"
+"Last-Translator: Jose Gordillo <kilder@hotmail.com>\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,7 +61,7 @@ msgstr "La terra tremola."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
 msgid "4p - NorthernRPG"
-msgstr "4j - JDR Tramuntaner"
+msgstr "4j - JdR Tramuntaner"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
 msgid ""
@@ -128,23 +128,23 @@ msgstr "garra de lich"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:461
 msgid "quick"
-msgstr ""
+msgstr "ràpid"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:543
 msgid "Follow the thief!"
-msgstr ""
+msgstr "Seguiu el lladre!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:551
 msgid "Investigate the area behind the waterfall."
-msgstr ""
+msgstr "Investiga l'àrea darrere de la cascada."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:588
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr ""
+msgstr "El meu or! El meu preciós or! Qui l'ha furtat?"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:592
 msgid "Yoink! That was easy."
-msgstr ""
+msgstr "Yipi! Això ha sigut fàcil."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:618
 msgid ""
@@ -152,43 +152,46 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Darrere d'ell, imbècils! S'ha amagat darrere de la cascada.\n"
+"\n"
+"...i no torneu sense el meu or, o vos mataré a tots!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:789
 msgid "Village secured."
-msgstr ""
+msgstr "Aldea capturada."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:816
 msgid "You can't stop me! Never!"
-msgstr ""
+msgstr "No mai podreu aturar-me! Mai!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:920
 msgid "There's a secret passage here."
-msgstr ""
+msgstr "Hi ha un passadís secret aquí."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:935
 msgid "This slab won't budge. Maybe if I had a large enough lever."
-msgstr ""
+msgstr "Aquesta pedra no es mourà. Potser si tinguera una palanca..."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:990
-#, fuzzy
 msgid "The great tree seems to be decaying. What will you do?"
-msgstr "En el portal hi ha tres runes gravades. Què faràs?"
+msgstr "El gran arbre pareix estar morint. Què faràs?"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:992
 msgid "Pull off a branch"
-msgstr ""
+msgstr "Llevar-li una branca"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1021
 msgid "Leave it alone"
-msgstr ""
+msgstr "Deixar-lo en pau"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1038
 msgid "At last, I claim my rightful place: as leader of this clan."
 msgstr ""
+"Per fi, reclame el lloc que em correspon per dret: el de líder del clan."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1075
 msgid "Look, a ship! Time to get out of here."
-msgstr ""
+msgstr "Mireu, un vaixell! És el moment d'anar-se'n d'ací."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1206
 msgid ""
@@ -196,6 +199,10 @@ msgid ""
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
+"Ah! Vosaltres sou els qui haveu pres el nostre arbre sagrat.\n"
+"\n"
+"Des de la pèrdua, la meua gent ha perdut el camí i s'han convertit en "
+"pirates."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1212
 msgid ""
@@ -203,10 +210,13 @@ msgid ""
 "\n"
 "You're next, foolish elf."
 msgstr ""
+"No he pres el vostre arbre sagrat, però tal volta l'haja mort. Hehe.\n"
+"\n"
+"I després d'ell vas tu, elfet."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1224
 msgid "Pirates! You won't take this land without a fight"
-msgstr ""
+msgstr "Pirates! No podreu prendre aquesta terra sense lluitar!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1230
 msgid ""
@@ -215,10 +225,14 @@ msgid ""
 "We went into the caves to find the thief, but he must have died inside. We "
 "never found him."
 msgstr ""
+"Mira'm! No em reconeixes?\n"
+"\n"
+"Vam anar a les coves per trobar el lladre, però segurament va morir allà "
+"dins. No mai el vam trobar."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1234
 msgid "You... look familiar. But, no! It's impossible."
-msgstr ""
+msgstr "Em sembles... familiar. Però... No! És impossible!"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
@@ -336,6 +350,10 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of "
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
+"\n"
+"`Nota: quan un líder mor, totes les seves tropes deixen el camp de batalla, "
+"excepte si un d'elles està en possessió del llibre de poder (que està amagat "
+"en un llogaret aleatori)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:339
 msgid "Dark Tome"
