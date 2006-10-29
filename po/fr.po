@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-20 11:16+0200\n"
-"PO-Revision-Date: 2006-09-19 19:03+0100\n"
+"PO-Revision-Date: 2006-10-29 12:21+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -97,7 +97,6 @@ msgid "Holy Water"
 msgstr "Eau Bénite"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
-#, fuzzy
 msgid "This water will make melee weapons holy."
 msgstr "Cette eau va sanctifier les armes de corps à corps."
 
@@ -125,23 +124,23 @@ msgstr "Griffe de liche"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:461
 msgid "quick"
-msgstr ""
+msgstr "vite"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:543
 msgid "Follow the thief!"
-msgstr ""
+msgstr "Suivez le voleur"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:551
 msgid "Investigate the area behind the waterfall."
-msgstr ""
+msgstr "Explorez la zone derrière la chute d'eau"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:588
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr ""
+msgstr "Mon or ! Mon or précieux ! Qui l'a volé ?"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:592
 msgid "Yoink! That was easy."
-msgstr ""
+msgstr "Chouette ! C'était facile."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:618
 msgid ""
@@ -149,43 +148,45 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Derrière lui, espèce de lourdauds ! Il est allé derrière la cascade.\n"
+"\n"
+"... et ne revenez pas sans mon or, sinon je vous tue tous moi-même !"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:789
 msgid "Village secured."
-msgstr ""
+msgstr "Villlage sécurisé."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:816
 msgid "You can't stop me! Never!"
-msgstr ""
+msgstr "Vous ne pourrez pas m'arrêter ! Jamais !"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:920
 msgid "There's a secret passage here."
-msgstr ""
+msgstr "Il y a un passage secret ici."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:935
 msgid "This slab won't budge. Maybe if I had a large enough lever."
-msgstr ""
+msgstr "Cette dalle ne va pas bouger. Si seulement j'avais un grand levier."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:990
-#, fuzzy
 msgid "The great tree seems to be decaying. What will you do?"
-msgstr "Trois runes sont gravées sur le portail. Que faites vous ?"
+msgstr "Le grand arbre semble être en train de dépérir. Qu'allez vous faire ?"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:992
 msgid "Pull off a branch"
-msgstr ""
+msgstr "Utiliser une branche."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1021
 msgid "Leave it alone"
-msgstr ""
+msgstr "La laisser."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1038
 msgid "At last, I claim my rightful place: as leader of this clan."
-msgstr ""
+msgstr "Enfin, je réclame ma vraie place : être chef de ce clan."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1075
 msgid "Look, a ship! Time to get out of here."
-msgstr ""
+msgstr "Regardez, un bateau ! C'est le moment de partir."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1206
 msgid ""
@@ -193,6 +194,9 @@ msgid ""
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
+"Ah ! Tu dois être un de ceux qui a pris notre arbre sacré.\n"
+"\n"
+"Depuis sa perte, mon peuple s'est égaré et nous sommes devenus pirates."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1212
 msgid ""
@@ -200,10 +204,13 @@ msgid ""
 "\n"
 "You're next, foolish elf."
 msgstr ""
+"Je n'ai pas pris votre arbre sacré, mais peut-être que je l'ai tué. Heh.\n"
+"\n"
+"Tu es le suivant, idiot d'elfe."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1224
 msgid "Pirates! You won't take this land without a fight"
-msgstr ""
+msgstr "Des pirates ! Vous ne prendrez pas ce pays sans combattre."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1230
 msgid ""
@@ -212,10 +219,14 @@ msgid ""
 "We went into the caves to find the thief, but he must have died inside. We "
 "never found him."
 msgstr ""
+"Regarde ! Tu ne te rappelles pas de moi ?\n"
+"\n"
+"Nous sommes allés dans les grottes pour chercher le voleur, mais il doit "
+"être mort à l'intérieur. Nous ne l'avons jamais retrouvé."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1234
 msgid "You... look familiar. But, no! It's impossible."
-msgstr ""
+msgstr "Tu... me rappelles quelqu'un. Mais, non ! C'est impossible."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
@@ -313,9 +324,9 @@ msgid ""
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
 "\n"
-"Six chefs luttent pour le contrôle du village de lave pour, où il y aurait "
-"un ancien grimoire magique (Suggestions : modificateur d'expérience de 30 %, "
-"5 pièces d'or par village)."
+"Six chefs luttent pour le contrôle du village de lave, où il y aurait un "
+"ancien grimoire magique (Suggestions : modificateur d'expérience de 30 %, 5 "
+"pièces d'or par village)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:282
 msgid "Time is shifting fast."
@@ -335,6 +346,10 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of "
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
+"\n"
+"`Note : quand un chef meurt, toutes ces troupes quittent le champ de "
+"bataille sauf si l'un d'entre eux porte le livre de puissance (caché au "
+"hasard dans un village)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:339
 msgid "Dark Tome"
@@ -400,7 +415,7 @@ msgid ""
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
 "\n"
-"Ngahaha... Et d'un mort ! Qui veut être le suivant ?!"
+"Ngahaha... Et d'un mort ! Qui veut être le suivant ? !"
 
 #~ msgid "ambush"
 #~ msgstr "embuscade"
