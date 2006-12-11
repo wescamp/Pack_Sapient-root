@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-20 11:16+0200\n"
+"POT-Creation-Date: 2006-12-11 18:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,69 +129,81 @@ msgid ""
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:789
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:790
 msgid "Village secured."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:816
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:817
 msgid "You can't stop me! Never!"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:920
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:921
 msgid "There's a secret passage here."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:935
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:936
 msgid "This slab won't budge. Maybe if I had a large enough lever."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:990
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:993
 msgid "The great tree seems to be decaying. What will you do?"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:992
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:995
 msgid "Pull off a branch"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1021
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1024
 msgid "Leave it alone"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1038
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1041
 msgid "At last, I claim my rightful place: as leader of this clan."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1075
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1083
 msgid "Look, a ship! Time to get out of here."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1206
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1214
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1212
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1220
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
 "You're next, foolish elf."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1224
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1232
 msgid "Pirates! You won't take this land without a fight"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1230
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1238
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
 "We went into the caves to find the thief, but he must have died inside. We never found him."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1234
+#: ./Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1242
 msgid "You... look familiar. But, no! It's impossible."
+msgstr ""
+
+#: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
+msgid "4p - Traitor's Island 2v2"
+msgstr ""
+
+#: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
+msgid "A 'tactical nightmare' where your ally is also your comedy relief."
+msgstr ""
+
+#: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
+msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
 msgstr ""
 
 #: ./Pack_Sapient/scenarios/Mega2v2.cfg:9
@@ -275,71 +287,71 @@ msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:282
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:316
 msgid "Time is shifting fast."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:284
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:318
 msgid "Kill enemy leaders!"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:287
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:321
 msgid "Find the Dark Tome!"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:288
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:322
 msgid ""
 "\n"
 "`Note: When a leader dies, all of his troops leave the battle, unless one of them holds the book of power (which is hidden in a random village)."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:339
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:411
 msgid "Dark Tome"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:342
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:414
 msgid "A Dark Tome was found here."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:343
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:415
 msgid "A Dark Tome was found here, but you could not understand it."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:355
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:427
 msgid "dark tome"
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:396
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:468
 msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:401
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:473
 msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:419
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:491
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:424
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:496
 msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:435
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:507
 msgid ""
 "\n"
 "Alas... "
 msgstr ""
 
-#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:440
+#: ./Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:512
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
