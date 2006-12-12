@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-12-11 18:10+0100\n"
-"PO-Revision-Date: 2006-10-29 12:21+0100\n"
-"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
+"PO-Revision-Date: 2006-12-12 02:58+0100\n"
+"Last-Translator: Damien <guydelatour@gloireetpouvoir.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr "2 joueurs-La Tombe des Rois"
+msgstr "2 joueurs - La Tombe des rois"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
 msgid ""
@@ -28,7 +28,7 @@ msgstr ""
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
 msgid "Recommended setting: 1gpv"
-msgstr "Paramétrage recommandé : 1 pièce d'or par village."
+msgstr "Paramétrage recommandé : 1 pièce d'or par village."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:59
 msgid "Defeat the enemy leader."
@@ -54,25 +54,25 @@ msgstr "Le terre tremble."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
 msgid "4p - NorthernRPG"
-msgstr "4 joueurs-JdR nordique"
+msgstr "4 joueurs - JdR nordique"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
 msgid ""
 "A multiplayer map for the Northerners in an RPG-style scenario (Suggestion: "
 "fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
-"Un carte multijoueur pour les nordiques, dans un style de JdR (suggestion : "
+"Une carte multijoueur pour les nordiques, dans un style de JdR (suggestion : "
 "brouillard de guerre, 1 pièce d'or or par village, 70 tours, utiliser les "
 "paramètres de la carte)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
-msgstr "La Floraison du Lotus."
+msgstr "La Floraison du lotus."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:91
 msgid "The Lotus heightens zen; ranged weapons are faster."
 msgstr ""
-"Le Lotus améliore le calme ; les tirs des armes à distance sont plus rapides."
+"Le lotus améliore le calme ; les tirs des armes à distance sont plus rapides."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:92
 msgid "I hate flowers!"
@@ -94,7 +94,7 @@ msgstr "L'armure est jolie, mais elle est un peu trop encombrante pour moi."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:175
 msgid "Holy Water"
-msgstr "Eau Bénite"
+msgstr "Eau bénite"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
 msgid "This water will make melee weapons holy."
@@ -106,7 +106,7 @@ msgstr "Je suis incapable d'utiliser cet objet ! Laissons-le à un autre."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:216
 msgid "Skeletal Claw"
-msgstr "Griffe de Squelette"
+msgstr "Griffe de squelette"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:219
 msgid "You find a lich's claw, and it hovers at your side obediently."
@@ -116,7 +116,7 @@ msgstr ""
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:220
 msgid "I ain't touching it."
-msgstr "J'l'ai pas touchée !"
+msgstr "J'l'ai pas touchée !"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:232
 msgid "lich's claw"
@@ -229,20 +229,28 @@ msgid "You... look familiar. But, no! It's impossible."
 msgstr "Tu... me rappelles quelqu'un. Mais, non ! C'est impossible."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
+#, fuzzy
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4 joueurs - L'Ile des traitres (2 contre 2)"
 
+# Damien : comedy relief représente le personnage ou la scène d'un film qui apporte un peu d'humour qui soulage.
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
+#, fuzzy
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
+"Un « cauchemar tactique » où votre allié est également votre seul moyen de "
+"détente."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
+#, fuzzy
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
 msgstr ""
+" Paramétrage recommandé : ère de l'Âge des Héros, commencer avec 50 pièces "
+"d'or."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr "4 joueurs-Méga Guerre (2 contre 2)"
+msgstr "4 joueurs - Méga guerre (2 contre 2)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:46
 msgid ""
@@ -250,12 +258,12 @@ msgid ""
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
 "Des royaumes à bout de souffle combattent des royaumes émergents et pleins "
-"d'énergie (paramètrage recommandé : 1 pièce d'or par village, ère de la "
+"d'énergie (paramétrage recommandé : 1 pièce d'or par village, ère de la "
 "Grande Guerre)."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:56
 msgid "Magical Darkness"
-msgstr "Ténèbres Magiques"
+msgstr "Ténèbres magiques"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:68
 msgid "Left Leg"
@@ -267,7 +275,7 @@ msgstr "sud"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:80
 msgid "Control Chip"
-msgstr "Puce de Contrôle"
+msgstr "Puce de contrôle"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:82
 #: Pack_Sapient/scenarios/Mega2v2.cfg:106
@@ -286,7 +294,7 @@ msgstr "Blaster X"
 #: Pack_Sapient/scenarios/Mega2v2.cfg:142
 msgid "Recommended settings: 1gpv, Great War Era"
 msgstr ""
-"Paramétrage recommandé : 1 pièce d'or par village, ère de la Grande Guerre."
+"Paramétrage recommandé : 1 pièce d'or par village, ère de la Grande Guerre."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:122
 #: Pack_Sapient/scenarios/Mega2v2.cfg:148
@@ -311,19 +319,19 @@ msgstr ""
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:238
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr "Trois runes sont gravées sur le portail. Que faites vous ?"
+msgstr "Trois runes sont gravées sur le portail. Que faites-vous ?"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:240
 msgid "Press the Sand Rune"
-msgstr "Appuyer sur la Rune de Sable"
+msgstr "Appuyer sur la rune de sable"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:244
 msgid "Press the Ice Rune"
-msgstr "Appuyer sur la Rune de Glace"
+msgstr "Appuyer sur la rune de glace"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:248
 msgid "Press the Darkness Rune"
-msgstr "Appuyer sur la Rune des Ténèbres"
+msgstr "Appuyer sur la rune des ténèbres"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:93
 msgid "Royal Rumble Lava-Village"
@@ -337,7 +345,7 @@ msgid ""
 msgstr ""
 "\n"
 "Six chefs luttent pour le contrôle du village de lave, où il y aurait un "
-"ancien grimoire magique (Suggestions : modificateur d'expérience de 30 %, 5 "
+"ancien grimoire magique (Suggestions : modificateur d'expérience de 30 %, 5 "
 "pièces d'or par village)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:316
@@ -350,7 +358,7 @@ msgstr "Tuez les chefs ennemis !"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:321
 msgid "Find the Dark Tome!"
-msgstr "Trouvez le Livre des Ténèbres !"
+msgstr "Trouvez le livre des ténèbres !"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:322
 msgid ""
@@ -359,22 +367,22 @@ msgid ""
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
 "\n"
-"`Note : quand un chef meurt, toutes ces troupes quittent le champ de "
-"bataille sauf si l'un d'entre eux porte le livre de puissance (caché au "
-"hasard dans un village)."
+"`Note : quand un chef meurt, toutes ses unités quittent le champ de bataille "
+"sauf si l'une d'entre elles porte le livre de puissance (caché au hasard "
+"dans un village)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:411
 msgid "Dark Tome"
-msgstr "Le Livre des Ténèbres"
+msgstr "Livre des ténèbres"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:414
 msgid "A Dark Tome was found here."
-msgstr "le Livre des Ténèbres a été trouvé ici."
+msgstr "Un livre des ténèbres a été découvert ici."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:415
 msgid "A Dark Tome was found here, but you could not understand it."
 msgstr ""
-"Le Livre des Ténèbres a été trouvé ici, mais sans que vous puissiez le "
+"Un livre des ténèbres a été découvert ici, mais sans que vous puissiez le "
 "décrypter."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:427
