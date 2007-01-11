@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-12-11 18:10+0100\n"
-"PO-Revision-Date: 2006-09-21 08:17+0100\n"
+"PO-Revision-Date: 2007-01-08 16:46+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -235,15 +235,16 @@ msgstr "Tu... hai l'aria familiare. Ma, no! È impossibile."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4p - L'isola del traditore 2v2"
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
+"Un incubo tattico in cui il tuo alleato è anche il tuo diversivo comico."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
-msgstr ""
+msgstr "Impostazione consigliata: era degli eroi e 50 pezzi d'oro iniziali."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
