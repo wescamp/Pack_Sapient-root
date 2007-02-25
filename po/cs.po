@@ -1,18 +1,20 @@
 # translation of Pack_Sapient-cs.po.bz2_[fFG1Ia].po to Czech
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-12-11 18:10+0100\n"
-"PO-Revision-Date: 2006-12-19 11:24+0100\n"
-"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"PO-Revision-Date: 2007-02-25 21:15+0100\n"
+"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: KBabel 1.11.2\n"
+"X-Poedit-Basepath: D:\\Hry\\Wesnoth\\1.2.2\\userdata\\data\\campaigns\n"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
@@ -70,8 +72,8 @@ msgstr ""
 msgid "Lotus Blossom"
 msgstr "Lotosový květ"
 
+# zen?
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:91
-#, fuzzy
 msgid "The Lotus heightens zen; ranged weapons are faster."
 msgstr "Lotos zvyšuje zen; dodává střelám sílu a rychlost."
 
@@ -84,7 +86,6 @@ msgid "An old suit of Armor"
 msgstr "Staré brnění"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:132
-#, fuzzy
 msgid "This armor is old, but it fits great! Ready for more beatings."
 msgstr "Toto brnění je sice staré, ale padne mi jako ulité! Připraven k řeži."
 
@@ -146,6 +147,9 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Za ním, vy bezcenní barbaři! Utekl za vodopád.\n"
+"\n"
+"... a neopovažujte se vrátit bez mého zlata, nebo vás pobiju sám!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:790
 msgid "Village secured."
@@ -177,31 +181,29 @@ msgstr "Nechám jej být"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1041
 msgid "At last, I claim my rightful place: as leader of this clan."
-msgstr ""
+msgstr "Konečně jsem získal pozici, která mi právem patří: vůdce tohoto klanu."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1083
 msgid "Look, a ship! Time to get out of here."
 msgstr "Hele, loď! Nejvyšší čas vypadnout odsud."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1214
-#, fuzzy
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
-"Á! Takže vy musíte být ti kdo zničili náš posvátný strom.\n"
+"Á! Takže vy musíte být ti kdo ukradli náš posvátný strom.\n"
 "\n"
 "Po jeho ztrátě se můj lid odvrátil od zvyků a stal se piráty."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1220
-#, fuzzy
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
 "You're next, foolish elf."
 msgstr ""
-"Nezničil jsem váš posvátný strom, ale možná jsem ho zabil, hehe.\n"
+"Neukradl jsem váš posvátný strom, ale možná jsem ho zabil, hehe.\n"
 "\n"
 "Teď jsi na řadě ty, hloupý elfe."
 
@@ -293,15 +295,15 @@ msgstr "Smrt vůdců severní aliance."
 msgid "Death of the southern alliance leaders."
 msgstr "Smrt vůdců jižní aliance."
 
+# pův.: (ledová, písečná a temná)
 #: Pack_Sapient/scenarios/Mega2v2.cfg:135
 #: Pack_Sapient/scenarios/Mega2v2.cfg:157
-#, fuzzy
 msgid ""
 "There are three warp gates (Ice, Sand, and Darkness).\n"
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
-"Na mapě jsou tři telebrány (ledová, písečná a temná).\n"
+"Na mapě jsou tři telebrány (led, písek a temnota).\n"
 "Kdokoliv je může použít k cestování do ostatních bran.\n"
 "Pokud je cílová brána obsazena, jednotky se prohodí."
 
@@ -321,9 +323,10 @@ msgstr "Stisknu ledovou runu"
 msgid "Press the Darkness Rune"
 msgstr "Stisknu runu temnoty"
 
+# případná kontrola
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:93
 msgid "Royal Rumble Lava-Village"
-msgstr ""
+msgstr "Královská bitka - Lávová vesnice"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:95
 msgid ""
@@ -337,7 +340,6 @@ msgstr ""
 "vesnice)"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:316
-#, fuzzy
 msgid "Time is shifting fast."
 msgstr "Čas rychle ubíhá."
 
@@ -356,26 +358,22 @@ msgid ""
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
 "\n"
-"Poznámka: Když zemře vůdce, všechna jeho vojska opustí bitvu, pokud nikdo z "
+"`Poznámka: Když zemře vůdce, všechna jeho vojska opustí bitvu, pokud nikdo z "
 "nich nemá Knihu moci (která je skryta v náhodné vesnici)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:411
-#, fuzzy
 msgid "Dark Tome"
 msgstr "Temná kniha"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:414
-#, fuzzy
 msgid "A Dark Tome was found here."
 msgstr "Zde byla nalezena Temná kniha."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:415
-#, fuzzy
 msgid "A Dark Tome was found here, but you could not understand it."
 msgstr "Byla zde nalezena Temná kniha, ale nerozumíš jí."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:427
-#, fuzzy
 msgid "dark tome"
 msgstr "temná kniha"
 
@@ -416,12 +414,16 @@ msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"Běda!"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:512
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Hahaha... První! Kdo chce být další?!"
 
 #~ msgid "ambush"
 #~ msgstr "přepadení"
