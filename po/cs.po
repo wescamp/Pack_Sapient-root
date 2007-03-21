@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-13 17:58+0100\n"
-"PO-Revision-Date: 2007-02-25 21:15+0100\n"
+"PO-Revision-Date: 2007-03-18 11:16+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -61,18 +61,12 @@ msgid "4p - NorthernRPG"
 msgstr "4p - Severské RPG"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
-msgstr ""
-"Seveřanská mapa hry více hráčů v RPG scénáři (Doporučení: mlha, 1 zlatý na "
-"vesnici, 70 kol, Použij nastavení mapy)"
+msgstr "Seveřanská mapa hry více hráčů v RPG scénáři."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr ""
-"Seveřanská mapa hry více hráčů v RPG scénáři (Doporučení: mlha, 1 zlatý na "
-"vesnici, 70 kol, Použij nastavení mapy)"
+msgstr "(Doporučení: mlha, 1 zlatý na vesnici, 70 kol, Použij nastavení mapy)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
