@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-13 17:58+0100\n"
-"PO-Revision-Date: 2006-08-12 14:51+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-04-03 00:10+0100\n"
+"Last-Translator: Max Lupke <malu2005@web.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr ""
+msgstr "2S - Grabmal der Könige"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
 msgid ""
@@ -21,116 +21,127 @@ msgid ""
 "when both sides agreed to built great shrines in their honor. (Recommended "
 "setting of 1 gold per village)"
 msgstr ""
+"Vor langer Zeit starben zwei starke Könige in einer Schlacht nahe dieser "
+"Höhle. Der Krieg endete als beide Seiten zustimmten, große Schreine in Ehren "
+"dieser Könige zu bauen.(Empfohlene Einstellung: 1 Gold pro Dorf)"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
 msgid "Recommended setting: 1gpv"
-msgstr ""
+msgstr "Empfohlene Einstellung: 1 Gold/Dorf"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:59
 msgid "Defeat the enemy leader."
-msgstr ""
+msgstr "Besiegt den feindlichen Heerführer"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:63
 msgid "Your leader dies."
-msgstr ""
+msgstr "Euer Heerführer ist gestorben"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:67
 #: Pack_Sapient/scenarios/Mega2v2.cfg:130
 #: Pack_Sapient/scenarios/Mega2v2.cfg:152
 msgid "End of turns."
-msgstr ""
+msgstr "Rundenlimit überschritten"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:70
 msgid "A section of the tomb wall crumbles on turn 20."
-msgstr ""
+msgstr "Ein Teil der Grabwand zerbröckelt in Runde 20."
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:85
 msgid "The earth shakes."
-msgstr ""
+msgstr "Der Boden bebt."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
 msgid "4p - NorthernRPG"
-msgstr ""
+msgstr "4S - NordmannenRPG"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
 msgstr ""
+"Eine Mehrspielerkarte für die Nordmannen in einem rollenspielartigem "
+"Szenario."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
+"(Empfohlen: Nebel des Krieges, 1 Gold/Dorf, 70 Runden, Karteneinstellungen "
+"benutzen)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
-msgstr ""
+msgstr "Lotusblüte"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:91
 msgid "The Lotus heightens zen; ranged weapons are faster."
-msgstr ""
+msgstr "Der Lotus verbessert das Bewusstsein; Ferkampfwaffen sind schneller."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:92
 msgid "I hate flowers!"
-msgstr ""
+msgstr "ich hasse Blumen!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:129
 msgid "An old suit of Armor"
-msgstr ""
+msgstr "Eine alte Rüstung"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:132
 msgid "This armor is old, but it fits great! Ready for more beatings."
 msgstr ""
+"Die Rüstung ist alt aber sie passt perfekt! Ich bin für mehr Prügeleinen "
+"bereit."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:133
 msgid "The armor looks nice, but it's too bulky for me to carry."
-msgstr ""
+msgstr "Die Rüstung sieht gut aus, aber sie ist zu unhandlich zum Tragen."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:175
 msgid "Holy Water"
-msgstr ""
+msgstr "Weihwasser"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
 msgid "This water will make melee weapons holy."
-msgstr ""
+msgstr "Dieses Wasser macht Nahkampfwaffen heilig."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:179
 msgid "I am not suited to the use of this item! Let another take it."
 msgstr ""
+"Ich kann diesen Gegenstand nicht benutzen! Lasst es einen Anderen tragen."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:216
 msgid "Skeletal Claw"
-msgstr ""
+msgstr "Skelettklaue"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:219
 msgid "You find a lich's claw, and it hovers at your side obediently."
 msgstr ""
+"Ihr findet eine Klaue eines Lichs und sie schwebt gehorsam an Eurer Seite."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:220
 msgid "I ain't touching it."
-msgstr ""
+msgstr "Ich habe sie nicht berührt"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:232
 msgid "lich's claw"
-msgstr ""
+msgstr "Klaue eines Lichs"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:459
 msgid "quick"
-msgstr ""
+msgstr "schnell"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:541
 msgid "Follow the thief!"
-msgstr ""
+msgstr "Folgt dem Dieb!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:549
 msgid "Investigate the area behind the waterfall."
-msgstr ""
+msgstr "Untersucht die Höhle hinter dem Wasserfall."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:615
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr ""
+msgstr "Mein Gold! Mein kostbares Gold! Wer hat es gestohlen?"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:619
 msgid "Yoink! That was easy."
-msgstr ""
+msgstr "Ja! Das war einfach."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:645
 msgid ""
@@ -138,42 +149,49 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Ihm nach, ihr nutzlosen Tölpeö! Er ist hinter dem Wasserfall.\n"
+"\n"
+"...und kommt nicht ohne mein Gold zurück oder ich werde euch alle töten!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:840
 msgid "Village secured."
-msgstr ""
+msgstr "Dorf gesichert."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:867
 msgid "You can't stop me! Never!"
-msgstr ""
+msgstr "Du kannst mich nicht aufhalten! Niemals!"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:971
 msgid "There's a secret passage here."
-msgstr ""
+msgstr "Hier ist ein Geheimgang."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:986
 msgid "This slab won't budge. Maybe if I had a large enough lever."
 msgstr ""
+"Diese Platte wird sich kein Stück rühren. Vielleicht aber, wenn ich einen "
+"Hebel hätte, der groß genug ist."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1043
 msgid "The great tree seems to be decaying. What will you do?"
-msgstr ""
+msgstr "Der Große Baum scheint zu zerfallen. Was werdet Ihr tun?"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1045
 msgid "Pull off a branch"
-msgstr ""
+msgstr "Sog eines Nebengangs"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1074
 msgid "Leave it alone"
-msgstr ""
+msgstr "Lasst ihn alleine."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1091
 msgid "At last, I claim my rightful place: as leader of this clan."
 msgstr ""
+"Letztendlich werde ich meinen verdienten Freiden finden: als der Führer "
+"dieses Stamms."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1133
 msgid "Look, a ship! Time to get out of here."
-msgstr ""
+msgstr "Seht, ein Schiff! Zeit hier raus zu kommen."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1264
 msgid ""
@@ -181,6 +199,10 @@ msgid ""
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
+"Ah! Also müsst Ihr der jenige sein, der unseren heiligen Baum mitnahm.\n"
+"\n"
+"Seitdem er verschwunden ist, haben sich meine Leute verirrt und sind Piraten "
+"geworden."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1270
 msgid ""
@@ -188,10 +210,14 @@ msgid ""
 "\n"
 "You're next, foolish elf."
 msgstr ""
+"Ich habe Euren heiligen Baum nicht genommen, aber vielleicht habe ich ihn "
+"getötet. Heh.\n"
+"\n"
+"Ihr seit der Nächste, dümmlicher Elf."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1282
 msgid "Pirates! You won't take this land without a fight"
-msgstr ""
+msgstr "Piraten! Ohne einen Kampf werdet ihr dieses Land nicht übernehmen."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1288
 msgid ""
@@ -200,82 +226,91 @@ msgid ""
 "We went into the caves to find the thief, but he must have died inside. We "
 "never found him."
 msgstr ""
+"Seht! Erinnert Ihr Euch nicht mehr an mich?\n"
+"\n"
+"Wir sind zusammen in die Höhlen gegangen, um den Dieb zu finden, doch er "
+"muss innerhalb der Höhleb gestorben sein. Wir haben ihn nie gefunden."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1292
 msgid "You... look familiar. But, no! It's impossible."
-msgstr ""
+msgstr "Du... siehst vertraut aus. Aber, nein! Das ist unmöglich."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4S - Insel des Verräters 2v2"
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
+"Ein 'taktischer Albtraum', in dem dein Verbündeter auch deine "
+"Komödienabhilfe ist."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:47
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
-msgstr ""
+msgstr "Empfohlene Einstellung ist Zeitalter der Helden und 50 Startgold."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:49
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:318
 msgid "Kill enemy leaders!"
-msgstr ""
+msgstr "Vernichtet die feindlichen Heerführer!"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr ""
+msgstr "4S - Megakrieg (2v2)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:46
 msgid ""
 "The kingdoms of the legs fight against those in the blaster and ear. "
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
+"Das Königreich der Beine kämpft gegen eben die aus dem Ohren- sowie "
+"Sprengerkönigreich. (Empfohlene Einstellung ist 1 Gold pro Dorf und Der "
+"große Krieg)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:56
 msgid "Magical Darkness"
-msgstr ""
+msgstr "Magische Dunkelheit"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:68
 msgid "Left Leg"
-msgstr ""
+msgstr "Linkes Bein"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:70 Pack_Sapient/scenarios/Mega2v2.cfg:94
 msgid "south"
-msgstr ""
+msgstr "Süden"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:80
 msgid "Control Chip"
-msgstr ""
+msgstr "Kontrollchip"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:82
 #: Pack_Sapient/scenarios/Mega2v2.cfg:106
 msgid "north"
-msgstr ""
+msgstr "Norden"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:92
 msgid "Right Leg"
-msgstr ""
+msgstr "Rechtes Bein"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:104
 msgid "X-Blaster"
-msgstr ""
+msgstr "x-Sprenger"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:120
 #: Pack_Sapient/scenarios/Mega2v2.cfg:142
 msgid "Recommended settings: 1gpv, Great War Era"
-msgstr ""
+msgstr "Empfolene Einstellungen: 1 Gold/Dorf, Der große Krieg"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:122
 #: Pack_Sapient/scenarios/Mega2v2.cfg:148
 msgid "Death of the northern alliance leaders."
-msgstr ""
+msgstr "Tod des Heerführers der nördlichen Allianz."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:126
 #: Pack_Sapient/scenarios/Mega2v2.cfg:144
 msgid "Death of the southern alliance leaders."
-msgstr ""
+msgstr "Tod des Heerführers der südlichen Allianz."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:135
 #: Pack_Sapient/scenarios/Mega2v2.cfg:157
@@ -284,26 +319,29 @@ msgid ""
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
+"Es gibt drei Portale (Eis, Sand und Dunkelheit).\n"
+"Jeder kann sie benutzen, um zu den anderen Portalen zu reisen.\n"
+"Wenn das Zielportal besetzt ist, werden die Einheiten die Plätze tauschen."
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:238
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr ""
+msgstr "Das Portal ist mit drei Runen betitelt. Was werdet Ihr tun?"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:240
 msgid "Press the Sand Rune"
-msgstr ""
+msgstr "Die Sandrune drücken"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:244
 msgid "Press the Ice Rune"
-msgstr ""
+msgstr "Die Eisrune drücken"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:248
 msgid "Press the Darkness Rune"
-msgstr ""
+msgstr "Die Dunkelheitsrune drücken"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:93
 msgid "Royal Rumble Lava-Village"
-msgstr ""
+msgstr "Royal Rumble Lavadorf"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:95
 msgid ""
@@ -311,14 +349,18 @@ msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
+"\n"
+"Sechs Machthaber konkurrieren um die Kontrolle von Lavadorf, wo gesagt wird, "
+"dort läge ein antikes Buch der Macht. (Empfehlung: 30% Erfahrung, 5 Gold/"
+"Dorf)"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:316
 msgid "Time is shifting fast."
-msgstr ""
+msgstr "Die Zeit verschiebt sich schnell."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:321
 msgid "Find the Dark Tome!"
-msgstr ""
+msgstr "Findet das Dunkele Grabmal"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:322
 msgid ""
@@ -326,55 +368,71 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of "
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
+"\n"
+"`Notiz: Wenn ein Heerführer stirbt, verlassen alle seine Truppen den Kampf, "
+"außer eine von ihnen hält das Buch der Macht (welches in einem zufällig "
+"ausgewählten Dorf versteckt ist)."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:388
 msgid "Dark Tome"
-msgstr ""
+msgstr "Dunkeles Grabmal"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:391
 msgid "A Dark Tome was found here."
-msgstr ""
+msgstr "Das Dunkele Grabmal wurde hier gefunden."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:392
 msgid "A Dark Tome was found here, but you could not understand it."
-msgstr ""
+msgstr "Ein Dunkeles Grabmal wurde hier gefunden aber du verstehst das nicht."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:404
 msgid "dark tome"
-msgstr ""
+msgstr "dunkeles Grabmal"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:445
 msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
+"\n"
+"Es gibt keinen Wald, in dem Ihr Euch verstecken könntet."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:450
 msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
+"\n"
+"Es gibt keinen? Oh..."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:468
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
+"\n"
+"Mich zu vergiften hilft Euch nicht, Verbrecher."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:473
 msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
+"\n"
+"Danke für den Hinweis."
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:484
 msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"Alas"
 
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:489
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Ngahaha... Der erste Tote! Wer will der Nächste sein?!"
