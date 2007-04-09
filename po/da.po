@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-13 17:58+0100\n"
-"PO-Revision-Date: 2007-02-24 13:15+0200\n"
+"PO-Revision-Date: 2007-04-06 13:15+0200\n"
 "Last-Translator: Joe Hansen\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -64,18 +64,12 @@ msgid "4p - NorthernRPG"
 msgstr "4p - NorthernRPG"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
-msgstr ""
-"Et flerspiller kort for Northernerer i et RPG-scenarie (Forslag: Krigståge, "
-"1gpv, 70 runder, brug kortindstillinger)"
+msgstr "Et flerspiller kort for Northernerer i et RPG-scenarie."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
-msgstr ""
-"Et flerspiller kort for Northernerer i et RPG-scenarie (Forslag: Krigståge, "
-"1gpv, 70 runder, brug kortindstillinger)"
+msgstr "(Forslag: Krigståge, 1gpv, 70 runder, brug kortindstillinger)"
 
 # Ikke afklaret
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
