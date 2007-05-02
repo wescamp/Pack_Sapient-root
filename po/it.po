@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-13 17:58+0100\n"
-"PO-Revision-Date: 2007-01-08 16:46+0100\n"
+"PO-Revision-Date: 2007-05-02 10:29+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -57,18 +57,13 @@ msgid "4p - NorthernRPG"
 msgstr "4p - RPG degli uomini del Nord"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
 msgstr ""
-"Mappa multigiocatore per gli uomini del nord in uno scenario in stile RPG "
-"(consigliato: nebbia di guerra, 1gpv, 70 turni, usa le impostazioni della "
-"mappa)"
+"Mappa multigiocatore per gli uomini del nord in uno scenario in stile RPG"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
-"Mappa multigiocatore per gli uomini del nord in uno scenario in stile RPG "
 "(consigliato: nebbia di guerra, 1gpv, 70 turni, usa le impostazioni della "
 "mappa)"
 
