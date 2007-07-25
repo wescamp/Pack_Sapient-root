@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-13 17:58+0100\n"
-"PO-Revision-Date: 2006-08-12 14:51+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
@@ -45,8 +47,9 @@ msgid "A section of the tomb wall crumbles on turn 20."
 msgstr ""
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:85
+#, fuzzy
 msgid "The earth shakes."
-msgstr ""
+msgstr "Jorden skakar."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
 msgid "4p - NorthernRPG"
@@ -85,16 +88,19 @@ msgid "The armor looks nice, but it's too bulky for me to carry."
 msgstr ""
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:175
+#, fuzzy
 msgid "Holy Water"
-msgstr ""
+msgstr "Vigvatten"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
+#, fuzzy
 msgid "This water will make melee weapons holy."
-msgstr ""
+msgstr "Detta vatten gör närstridsvapen heliga."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:179
+#, fuzzy
 msgid "I am not suited to the use of this item! Let another take it."
-msgstr ""
+msgstr "Jag är inte lämpad att använda denna sak! Låt någon annan ta den."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:216
 msgid "Skeletal Claw"
@@ -113,8 +119,9 @@ msgid "lich's claw"
 msgstr ""
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:459
+#, fuzzy
 msgid "quick"
-msgstr ""
+msgstr "snabb"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:541
 msgid "Follow the thief!"
