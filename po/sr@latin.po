@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2007-03-13 17:58+0100\n"
+"PO-Revision-Date: 2007-03-13 17:58+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
+msgid "2p - Tomb of Kings"
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
+msgid ""
+"Long ago, two powerful kings died in a battle near this cave. All war ceased "
+"when both sides agreed to built great shrines in their honor. (Recommended "
+"setting of 1 gold per village)"
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:57
+msgid "Recommended setting: 1gpv"
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:59
+msgid "Defeat the enemy leader."
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:63
+msgid "Your leader dies."
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:67
+#: Pack_Sapient/scenarios/Mega2v2.cfg:130
+#: Pack_Sapient/scenarios/Mega2v2.cfg:152
+msgid "End of turns."
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:70
+msgid "A section of the tomb wall crumbles on turn 20."
+msgstr ""
+
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:85
+msgid "The earth shakes."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:9
+msgid "4p - NorthernRPG"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
+msgid "A multiplayer map for the Northerners in an RPG-style scenario."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
+msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
+msgid "Lotus Blossom"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:91
+msgid "The Lotus heightens zen; ranged weapons are faster."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:92
+msgid "I hate flowers!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:129
+msgid "An old suit of Armor"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:132
+msgid "This armor is old, but it fits great! Ready for more beatings."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:133
+msgid "The armor looks nice, but it's too bulky for me to carry."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:175
+msgid "Holy Water"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:178
+msgid "This water will make melee weapons holy."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:179
+msgid "I am not suited to the use of this item! Let another take it."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:216
+msgid "Skeletal Claw"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:219
+msgid "You find a lich's claw, and it hovers at your side obediently."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:220
+msgid "I ain't touching it."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:232
+msgid "lich's claw"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:459
+msgid "quick"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:541
+msgid "Follow the thief!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:549
+msgid "Investigate the area behind the waterfall."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:615
+msgid "My gold! My precious gold! Who has stolen it?"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:619
+msgid "Yoink! That was easy."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:645
+msgid ""
+"After him, you worthless louts! He went behind the waterfall.\n"
+"\n"
+"...and don't come back without my gold, or I'll kill you all myself!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:840
+msgid "Village secured."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:867
+msgid "You can't stop me! Never!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:971
+msgid "There's a secret passage here."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:986
+msgid "This slab won't budge. Maybe if I had a large enough lever."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1043
+msgid "The great tree seems to be decaying. What will you do?"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1045
+msgid "Pull off a branch"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1074
+msgid "Leave it alone"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1091
+msgid "At last, I claim my rightful place: as leader of this clan."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1133
+msgid "Look, a ship! Time to get out of here."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1264
+msgid ""
+"Ah! So you must be the ones who took our sacred tree.\n"
+"\n"
+"Since its loss, my people have lost our way and become pirates."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1270
+msgid ""
+"I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
+"\n"
+"You're next, foolish elf."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1282
+msgid "Pirates! You won't take this land without a fight"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1288
+msgid ""
+"Look! Don't you remember me?\n"
+"\n"
+"We went into the caves to find the thief, but he must have died inside. We "
+"never found him."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:1292
+msgid "You... look familiar. But, no! It's impossible."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
+msgid "4p - Traitor's Island 2v2"
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
+msgid "A 'tactical nightmare' where your ally is also your comedy relief."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:47
+msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
+msgstr ""
+
+#: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:49
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:318
+msgid "Kill enemy leaders!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:9
+msgid "4p - Mega War (2v2)"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:46
+msgid ""
+"The kingdoms of the legs fight against those in the blaster and ear. "
+"(Recommended setting of 1 gold per village and Great War Era)"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:56
+msgid "Magical Darkness"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:68
+msgid "Left Leg"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:70 Pack_Sapient/scenarios/Mega2v2.cfg:94
+msgid "south"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:80
+msgid "Control Chip"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:82
+#: Pack_Sapient/scenarios/Mega2v2.cfg:106
+msgid "north"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:92
+msgid "Right Leg"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:104
+msgid "X-Blaster"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:120
+#: Pack_Sapient/scenarios/Mega2v2.cfg:142
+msgid "Recommended settings: 1gpv, Great War Era"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:122
+#: Pack_Sapient/scenarios/Mega2v2.cfg:148
+msgid "Death of the northern alliance leaders."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:126
+#: Pack_Sapient/scenarios/Mega2v2.cfg:144
+msgid "Death of the southern alliance leaders."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:135
+#: Pack_Sapient/scenarios/Mega2v2.cfg:157
+msgid ""
+"There are three warp gates (Ice, Sand, and Darkness).\n"
+"Anyone can use them to travel to the other gates.\n"
+"If the destination gate is occupied, the units will swap places."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:238
+msgid "The portal is inscribed with three runes. What will you do?"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:240
+msgid "Press the Sand Rune"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:244
+msgid "Press the Ice Rune"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Mega2v2.cfg:248
+msgid "Press the Darkness Rune"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:93
+msgid "Royal Rumble Lava-Village"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:95
+msgid ""
+"\n"
+"Six rulers vie for the control of Lava Village, where there is told to be an "
+"ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:316
+msgid "Time is shifting fast."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:321
+msgid "Find the Dark Tome!"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:322
+msgid ""
+"\n"
+"`Note: When a leader dies, all of his troops leave the battle, unless one of "
+"them holds the book of power (which is hidden in a random village)."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:388
+msgid "Dark Tome"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:391
+msgid "A Dark Tome was found here."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:392
+msgid "A Dark Tome was found here, but you could not understand it."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:404
+msgid "dark tome"
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:445
+msgid ""
+"\n"
+"There's no forest for you to hide in."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:450
+msgid ""
+"\n"
+"There isn't? Oh..."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:468
+msgid ""
+"\n"
+"Poisoning me will get you nowhere, criminal."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:473
+msgid ""
+"\n"
+"Thanks for the advice."
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:484
+msgid ""
+"\n"
+"Alas... "
+msgstr ""
+
+#: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:489
+msgid ""
+"\n"
+"Ngahaha... First kill! Who wants to be next?!"
+msgstr ""
