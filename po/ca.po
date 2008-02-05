@@ -1,19 +1,19 @@
 #
 # Catalan translations for Battle for Wesnoth package.
-# Copyright (C) 2004 Wesnoth development team
+# Copyright (C) 2007 Wesnoth development team
 # This file is distributed under the same license as the Battle for
 # Wesnoth package.
 #
-# Jose Gordillo <kilder@hotmail.com>, 2006.
+# Jose Gordillo <kilder@hotmail.com>, 2006, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ca\n"
+"Project-Id-Version: wescamp-i18n-ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-13 17:58+0100\n"
-"PO-Revision-Date: 2006-09-23 19:41+0200\n"
+"PO-Revision-Date: 2008-02-04 19:37+0100\n"
 "Last-Translator: Jose Gordillo <kilder@hotmail.com>\n"
-"Language-Team: Català <wesnoth-ca@ettin.org>\n"
+"Language-Team: Catalan <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,20 +64,16 @@ msgid "4p - NorthernRPG"
 msgstr "4j - JdR Tramuntaner"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
 msgstr ""
 "Un mapa multijugador per als Tramuntaners a la manera d'un escenari propi "
-"d'un joc de rol. Recomanem boira de guerra, una moneda d'or per llogaret, 70 "
-"torns i usar els paràmetres per defecte."
+"d'un joc de rol."
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:60
-#, fuzzy
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
-"Un mapa multijugador per als Tramuntaners a la manera d'un escenari propi "
-"d'un joc de rol. Recomanem boira de guerra, una moneda d'or per llogaret, 70 "
-"torns i usar els paràmetres per defecte."
+"(Recomanem: boira de guerra, una moneda d'or per llogaret, 70 torns i usar "
+"els paràmetres per defecte)"
 
 #: Pack_Sapient/scenarios/4p_NorthernRPG.cfg:88
 msgid "Lotus Blossom"
@@ -243,16 +239,16 @@ msgstr "Em sembles... familiar. Però... No! És impossible!"
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4j - Illa dels traïdors 2v2"
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
-msgstr ""
+msgstr " Un 'malson tàctic' on el teu aliat també és el teu descans còmic."
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:30
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:47
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
-msgstr ""
+msgstr "Recomanem usar l'era del Herois i 50 monedes d'or al començar"
 
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:49
 #: Pack_Sapient/scenarios/Royal_Rumble_Lavavillage.cfg:318
@@ -269,7 +265,7 @@ msgid ""
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
 "Els regnes de les cames lluiten contra aquells dels blasters i les orelles. "
-"Recomanem una moneda d'or per llogaret i l'era de la Gran Guerra."
+"(Recomanem una moneda d'or per llogaret i l'era de la Gran Guerra)"
 
 #: Pack_Sapient/scenarios/Mega2v2.cfg:56
 msgid "Magical Darkness"
